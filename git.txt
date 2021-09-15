@@ -19,5 +19,9 @@ git checkout -b manouvellebranche
 verification avec gitbranch
  git commit -a -m "background modifier " si fichier deja existant
  pour revenir a la branche principale get checkout main
+git merge manouvellebranch pour rapporter les modification de la nouvelle branche a main
+apres reconfiramtion avec github.(tu peux rajouter d'autre commentaire) valider
+git checkout manouvellebranch pour se deplacer de la nouvelle branche
+
 
 

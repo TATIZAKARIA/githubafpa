@@ -12,3 +12,9 @@ si :git add (.) on envoi tous ce qui est dans le dossier
 si : git add (index.html) ca envoi que le fichier index.html
 git commit -m "ajout index.html" pour rajouter du commentaire
 git push envoyer directement au serveur
+la commande code (nom du fichier ) ouvre directement le fichier avec vscode
+une branche c'est une copie complete de votre dossier d'origine
+git checkout -b manouvellebranche
+verification avec gitbranch
+ git commit -a -m "background modifier "
+ fichier deja existant

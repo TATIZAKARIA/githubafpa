@@ -22,6 +22,9 @@ verification avec gitbranch
 git merge manouvellebranch pour rapporter les modification de la nouvelle branche a main
 apres reconfiramtion avec github.(tu peux rajouter d'autre commentaire) valider
 git checkout manouvellebranch pour se deplacer de la nouvelle branche
+git branch: donne les branche existant
+connexion
+ git merge manouvellebranch
 
 
 

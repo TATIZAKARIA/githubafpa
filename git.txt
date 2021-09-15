@@ -1,0 +1,14 @@
+on entre dans le dossier qui relie github(lors de l'installation).
+creer la liaison avec github  commande git init
+commande ls pour afficher le contenu du doosier dans le cas ou le fichier caché githb est caché 
+ls -hidden pour afficher le gitinit sur windows si il est caché
+on clone https sur le github(nouveau dossier creer afpa) et apres on le clone dans le powershell avec git clone
+on verifie qu'il existe avec ls(affichage).
+apres en accede dedand avec le cd
+New-item index.html commande qui permet de créer un ficheier
+verification en ls
+git status interoger voir si rouge ou vert
+si :git add (.) on envoi tous ce qui est dans le dossier
+si : git add (index.html) ca envoi que le fichier index.html
+git commit -m "ajout index.html" pour rajouter du commentaire
+git push envoyer directement au serveur

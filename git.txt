@@ -1,7 +1,8 @@
 on entre dans le dossier qui relie github(lors de l'installation).
 creer la liaison avec github  commande git init
-commande ls pour afficher le contenu du doosier dans le cas ou le fichier caché githb est caché 
-ls -hidden pour afficher le gitinit sur windows si il est caché
+commande ls pour afficher le contenu du doosier. 
+dans le cas ou le fichier caché githb est caché :
+ls -hidden pour afficher le gitinit sur windows si il est caché.
 on clone https sur le github(nouveau dossier creer afpa) et apres on le clone dans le powershell avec git clone
 on verifie qu'il existe avec ls(affichage).
 apres en accede dedand avec le cd
@@ -16,5 +17,7 @@ la commande code (nom du fichier ) ouvre directement le fichier avec vscode
 une branche c'est une copie complete de votre dossier d'origine
 git checkout -b manouvellebranche
 verification avec gitbranch
- git commit -a -m "background modifier "
- fichier deja existant
+ git commit -a -m "background modifier " si fichier deja existant
+ pour revenir a la branche principale get checkout main
+
+
